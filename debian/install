@@ -1,16 +1,1 @@
-Bold/*.ttf              usr/share/fonts/truetype/jetbrains-mono-nerd/
-BoldItalic/*.ttf        usr/share/fonts/truetype/jetbrains-mono-nerd/
-ExtraBold/*.ttf         usr/share/fonts/truetype/jetbrains-mono-nerd/
-ExtraBoldItalic/*.ttf   usr/share/fonts/truetype/jetbrains-mono-nerd/
-ExtraLight/*.ttf        usr/share/fonts/truetype/jetbrains-mono-nerd/
-ExtraLightItalic/*.ttf  usr/share/fonts/truetype/jetbrains-mono-nerd/
-Italic/*.ttf            usr/share/fonts/truetype/jetbrains-mono-nerd/
-Light/*.ttf             usr/share/fonts/truetype/jetbrains-mono-nerd/
-LightItalic/*.ttf       usr/share/fonts/truetype/jetbrains-mono-nerd/
-Medium/*.ttf            usr/share/fonts/truetype/jetbrains-mono-nerd/
-MediumItalic/*.ttf      usr/share/fonts/truetype/jetbrains-mono-nerd/
-Regular/*.ttf           usr/share/fonts/truetype/jetbrains-mono-nerd/
-SemiBold/*.ttf          usr/share/fonts/truetype/jetbrains-mono-nerd/
-SemiBoldItalic/*.ttf    usr/share/fonts/truetype/jetbrains-mono-nerd/
-Thin/*.ttf              usr/share/fonts/truetype/jetbrains-mono-nerd/
-ThinItalic/*.ttf        usr/share/fonts/truetype/jetbrains-mono-nerd/
+usr
