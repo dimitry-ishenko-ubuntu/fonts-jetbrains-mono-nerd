@@ -1,3 +1,10 @@
+fonts-jetbrains-mono-nerd (2.304-2) unstable; urgency=medium
+
+  * Pull in fontconfig and enable font features
+  * Move fonts into /usr/share/fonts
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 26 Jul 2024 19:08:08 -0400
+
 fonts-jetbrains-mono-nerd (2.304-1) unstable; urgency=medium
 
   * Import JetBrainsMono Nerd Font
