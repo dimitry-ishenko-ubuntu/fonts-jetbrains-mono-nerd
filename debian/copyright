@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: JetBrains Mono Nerd Font
+Source: https://github.com/ryanoasis/nerd-fonts
+
+Files: *
+Copyright: 2023 The JetBrains Mono authors
+License: OFL-1.1
+
+Files: debian/*
+Copyright: 2024 Dimitry Ishenko <dimitry.ishenko@gmail.com>
+License: GPL-3+

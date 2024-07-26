@@ -1,0 +1,18 @@
+Source: fonts-jetbrains-mono-nerd
+Priority: optional
+Section: fonts
+Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://www.jetbrains.com/lp/mono/
+
+Package: fonts-jetbrains-mono-nerd
+Architecture: all
+Description: JetBrains Mono: a typeface made for developers
+ This version of the JetBrains Mono font has been patched with the Nerd Fonts
+ patcher.
+ .
+ Nerd Fonts patches developer targeted fonts with a high number of glyphs.
+ Specifically to add a high number of extra glyphs from popular 'iconic fonts'
+ such as Font Awesome, Devicons, Octicons, and others.
