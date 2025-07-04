@@ -2,14 +2,17 @@ Source: fonts-jetbrains-mono-nerd
 Priority: optional
 Section: fonts
 Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
-Build-Depends: debhelper-compat (= 12)
-Standards-Version: 4.6.0
+Build-Depends:
+ debhelper-compat (= 13)
+Standards-Version: 4.6.2
 Rules-Requires-Root: no
 Homepage: https://www.jetbrains.com/lp/mono/
 
 Package: fonts-jetbrains-mono-nerd
 Architecture: all
-Depends: fontconfig, ${misc:Depends}
+Depends:
+ fontconfig,
+ ${misc:Depends}
 Description: JetBrains Mono: a typeface made for developers
  This version of the JetBrains Mono font has been patched with the Nerd Fonts
  patcher.
