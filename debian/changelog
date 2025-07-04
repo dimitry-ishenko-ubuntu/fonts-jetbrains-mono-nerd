@@ -1,3 +1,13 @@
+fonts-jetbrains-mono-nerd (3.4.0-1) unstable; urgency=medium
+
+  * d/copyright: update
+  * debian: adopt for the new structure
+  * d/control: compat level 13
+  * Merge tag 'v3.4.0'
+  * Prepare for new version
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 04 Jul 2025 19:49:36 -0400
+
 fonts-jetbrains-mono-nerd (2.304-2) unstable; urgency=medium
 
   * Pull in fontconfig and enable font features
