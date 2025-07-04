@@ -1,2 +1,25 @@
-etc
-usr
+JetBrainsMonoNerdFont*-Bold.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Bold/
+JetBrainsMonoNerdFont*-BoldItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Bold/
+
+JetBrainsMonoNerdFont*-ExtraBold.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/ExtraBold/
+JetBrainsMonoNerdFont*-ExtraBoldItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/ExtraBold/
+
+JetBrainsMonoNerdFont*-ExtraLight.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/ExtraLight/
+JetBrainsMonoNerdFont*-ExtraLightItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/ExtraLight/
+
+JetBrainsMonoNerdFont*-Italic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Regular/
+JetBrainsMonoNerdFont*-Regular.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Regular/
+
+JetBrainsMonoNerdFont*-Light.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Light/
+JetBrainsMonoNerdFont*-LightItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Light/
+
+JetBrainsMonoNerdFont*-Medium.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Medium/
+JetBrainsMonoNerdFont*-MediumItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Medium/
+
+JetBrainsMonoNerdFont*-SemiBold.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/SemiBold/
+JetBrainsMonoNerdFont*-SemiBoldItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/SemiBold/
+
+JetBrainsMonoNerdFont*-Thin.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Thin/
+JetBrainsMonoNerdFont*-ThinItalic.ttf usr/share/fonts/truetype/jetbrains-mono-nerd/Thin/
+
+debian/20-jetbrains-mono-nerd.conf usr/share/fontconfig/conf.avail/
